@@ -4,6 +4,7 @@
 // API hujjatlarini qo'shish
 // API response formatini yaxshilash
 // type error tuzatildi
+// shopping cart funksiyasi qo'shildi
 // API response formatini yaxshilash
 // error handling yaxshilandi
 // database migrations yaratildi
