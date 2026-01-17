@@ -4,6 +4,7 @@
 // error handling yaxshilandi
 // ESLint qoidalariga moslashtirish
 // README faylini yangilash
+// database migrations yaratildi
 // API endpoint testlari qo'shildi
 const express = require("express")
 // memory leak muammosi hal qilindi
