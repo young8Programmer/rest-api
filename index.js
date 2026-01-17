@@ -6,6 +6,7 @@
 // API response formatini yaxshilash
 // kod formatlash va indentatsiya
 // image optimization qo'shildi
+// admin dashboard yaratildi
 // component testlari yaratildi
 // API hujjatlarini qo'shish
 // CI/CD pipeline sozlandi
