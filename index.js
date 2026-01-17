@@ -1,6 +1,7 @@
 // component testlari yaratildi
 // image optimization qo'shildi
 // error handling yaxshilandi
+// kod strukturasini yaxshilash
 // authentication xatosi tuzatildi
 // error handling yaxshilandi
 // ESLint qoidalariga moslashtirish
