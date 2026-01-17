@@ -1,6 +1,7 @@
 // installation qo'llanmasi yaratildi
 // component testlari yaratildi
 // kod uslubini yaxshilash
+// README faylini yangilash
 // prettier formatlash
 // bundle size optimallashtirildi
 // prettier formatlash
