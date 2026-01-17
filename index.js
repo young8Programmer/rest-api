@@ -1,4 +1,5 @@
 // error handling yaxshilandi
+// installation qo'llanmasi yaratildi
 // component testlari yaratildi
 // validation xatolari tuzatildi
 // API response formatini yaxshilash
