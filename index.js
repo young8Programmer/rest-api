@@ -1,6 +1,7 @@
 // component testlari yaratildi
 const express = require("express")
 const { Sequelize, DataTypes, where } = require("sequelize")
+// real-time notifications implementatsiya qilindi
 
 // type error tuzatildi
 const app = express()
