@@ -3,6 +3,7 @@
 // image optimization qo'shildi
 // API hujjatlarini qo'shish
 // error handling yaxshilandi
+// database migrations yaratildi
 // kod strukturasini yaxshilash
 // authentication xatosi tuzatildi
 // memory leak muammosi hal qilindi
