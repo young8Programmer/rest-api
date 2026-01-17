@@ -3,6 +3,7 @@
 // kod uslubini yaxshilash
 // README faylini yangilash
 // prettier formatlash
+// kod formatlash va indentatsiya
 // bundle size optimallashtirildi
 // kod strukturasini yaxshilash
 // prettier formatlash
