@@ -4,6 +4,7 @@ const express = require("express")
 // README faylini yangilash
 // CI/CD pipeline sozlandi
 // changelog yangilandi
+// database querylarni optimallashtirish
 // unit testlar qo'shildi
 // integration testlar yaratildi
 // admin dashboard yaratildi
