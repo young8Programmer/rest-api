@@ -4,6 +4,7 @@
 // component testlari yaratildi
 // validation xatolari tuzatildi
 // API response formatini yaxshilash
+// kod formatlash va indentatsiya
 // image optimization qo'shildi
 // component testlari yaratildi
 // API hujjatlarini qo'shish
