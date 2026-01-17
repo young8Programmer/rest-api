@@ -7,6 +7,7 @@ const { Sequelize, DataTypes, where } = require("sequelize")
 // real-time notifications implementatsiya qilindi
 
 // type error tuzatildi
+// kod formatlash va tozalash
 const app = express()
 app.use(express.json())
 
