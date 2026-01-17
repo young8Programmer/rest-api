@@ -1,6 +1,7 @@
 // installation qo'llanmasi yaratildi
 // component testlari yaratildi
 // kod uslubini yaxshilash
+// API endpoint testlari qo'shildi
 // bundle size optimallashtirildi
 // unit testlar qo'shildi
 // code comments qo'shildi
