@@ -1,5 +1,6 @@
 // error handling yaxshilandi
 // installation qo'llanmasi yaratildi
+// ESLint qoidalariga moslashtirish
 // component testlari yaratildi
 // validation xatolari tuzatildi
 // API response formatini yaxshilash
