@@ -7,6 +7,7 @@
 // memory leak muammosi hal qilindi
 // error handling yaxshilandi
 // middleware funksiyalari qo'shildi
+// installation qo'llanmasi yaratildi
 // ESLint qoidalariga moslashtirish
 // README faylini yangilash
 // database migrations yaratildi
