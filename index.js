@@ -5,6 +5,7 @@
 const express = require("express")
 // memory leak muammosi hal qilindi
 // README faylini yangilash
+// dependencies yangilandi
 // CI/CD pipeline sozlandi
 // changelog yangilandi
 // database querylarni optimallashtirish
