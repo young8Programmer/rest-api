@@ -3,6 +3,7 @@
 // kod uslubini yaxshilash
 // bundle size optimallashtirildi
 // unit testlar qo'shildi
+// package.json yangilandi
 // error handling yaxshilandi
 // component testlari yaratildi
 // installation qo'llanmasi yaratildi
