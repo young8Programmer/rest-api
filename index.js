@@ -5,6 +5,7 @@ const express = require("express")
 // CI/CD pipeline sozlandi
 // changelog yangilandi
 // unit testlar qo'shildi
+// admin dashboard yaratildi
 const { Sequelize, DataTypes, where } = require("sequelize")
 // user authentication qo'shildi
 // database testlari qo'shildi
