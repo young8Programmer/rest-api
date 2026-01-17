@@ -6,6 +6,7 @@ const express = require("express")
 // CI/CD pipeline sozlandi
 // changelog yangilandi
 // database querylarni optimallashtirish
+// database querylarni optimallashtirish
 // unit testlar qo'shildi
 // integration testlar yaratildi
 // admin dashboard yaratildi
