@@ -5,6 +5,7 @@
 // ESLint qoidalariga moslashtirish
 // README faylini yangilash
 // database migrations yaratildi
+// API response formatini yaxshilash
 // API endpoint testlari qo'shildi
 // validation xatolari tuzatildi
 const express = require("express")
