@@ -1,4 +1,5 @@
 // component testlari yaratildi
+// API endpoint testlari qo'shildi
 const express = require("express")
 // changelog yangilandi
 const { Sequelize, DataTypes, where } = require("sequelize")
