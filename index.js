@@ -6,6 +6,7 @@
 // shopping cart funksiyasi qo'shildi
 // component testlari yaratildi
 // validation xatolari tuzatildi
+// admin dashboard yaratildi
 // kod formatlash va indentatsiya
 // API response formatini yaxshilash
 // kod formatlash va indentatsiya
