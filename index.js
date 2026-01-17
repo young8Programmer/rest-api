@@ -1,3 +1,4 @@
+// installation qo'llanmasi yaratildi
 // component testlari yaratildi
 // kod uslubini yaxshilash
 // error handling yaxshilandi
