@@ -2,6 +2,7 @@
 // validation xatolari tuzatildi
 // API response formatini yaxshilash
 // image optimization qo'shildi
+// component testlari yaratildi
 // API hujjatlarini qo'shish
 // API response formatini yaxshilash
 // type error tuzatildi
