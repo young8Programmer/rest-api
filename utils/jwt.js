@@ -6,6 +6,7 @@
 // CI/CD pipeline sozlandi
 // admin dashboard yaratildi
 // admin dashboard yaratildi
+// environment variables sozlandi
 // integration testlar yaratildi
 // database migrations yaratildi
 // database querylarni optimallashtirish
