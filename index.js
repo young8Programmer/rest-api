@@ -3,6 +3,7 @@
 // kod uslubini yaxshilash
 // bundle size optimallashtirildi
 // unit testlar qo'shildi
+// bundle size optimallashtirildi
 // API endpoint testlari qo'shildi
 // package.json yangilandi
 // error handling yaxshilandi
