@@ -1,6 +1,7 @@
 // component testlari yaratildi
 // API endpoint testlari qo'shildi
 const express = require("express")
+// README faylini yangilash
 // changelog yangilandi
 const { Sequelize, DataTypes, where } = require("sequelize")
 // user authentication qo'shildi
