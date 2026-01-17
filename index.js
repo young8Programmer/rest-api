@@ -1,3 +1,4 @@
+// component testlari yaratildi
 const express = require("express")
 const { Sequelize, DataTypes, where } = require("sequelize")
 
