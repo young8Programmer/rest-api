@@ -1,5 +1,6 @@
 // component testlari yaratildi
 const express = require("express")
+// changelog yangilandi
 const { Sequelize, DataTypes, where } = require("sequelize")
 // real-time notifications implementatsiya qilindi
 
