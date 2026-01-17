@@ -6,6 +6,7 @@
 // API response formatini yaxshilash
 // kod formatlash va indentatsiya
 // database migrations yaratildi
+// memory leak muammosi hal qilindi
 // image optimization qo'shildi
 // admin dashboard yaratildi
 // component testlari yaratildi
