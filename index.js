@@ -1,4 +1,5 @@
 // component testlari yaratildi
+// API response formatini yaxshilash
 // image optimization qo'shildi
 // error handling yaxshilandi
 // kod strukturasini yaxshilash
