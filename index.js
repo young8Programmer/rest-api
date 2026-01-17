@@ -4,6 +4,7 @@
 // API hujjatlarini qo'shish
 // error handling yaxshilandi
 // database migrations yaratildi
+// ESLint qoidalariga moslashtirish
 // kod strukturasini yaxshilash
 // authentication xatosi tuzatildi
 // memory leak muammosi hal qilindi
