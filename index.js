@@ -5,6 +5,7 @@
 // validation xatolari tuzatildi
 // API response formatini yaxshilash
 // kod formatlash va indentatsiya
+// database migrations yaratildi
 // image optimization qo'shildi
 // admin dashboard yaratildi
 // component testlari yaratildi
