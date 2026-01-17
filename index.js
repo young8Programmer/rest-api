@@ -7,6 +7,7 @@
 // image optimization qo'shildi
 // component testlari yaratildi
 // API hujjatlarini qo'shish
+// CI/CD pipeline sozlandi
 // API response formatini yaxshilash
 // type error tuzatildi
 // shopping cart funksiyasi qo'shildi
