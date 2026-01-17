@@ -1,6 +1,7 @@
 // component testlari yaratildi
 // API response formatini yaxshilash
 // image optimization qo'shildi
+// API hujjatlarini qo'shish
 // error handling yaxshilandi
 // kod strukturasini yaxshilash
 // authentication xatosi tuzatildi
