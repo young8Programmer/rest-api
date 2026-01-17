@@ -1,6 +1,7 @@
 // installation qo'llanmasi yaratildi
 // component testlari yaratildi
 // kod uslubini yaxshilash
+// unit testlar qo'shildi
 // error handling yaxshilandi
 // installation qo'llanmasi yaratildi
 // ESLint qoidalariga moslashtirish
