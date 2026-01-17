@@ -1,4 +1,5 @@
 // component testlari yaratildi
+// image optimization qo'shildi
 // API endpoint testlari qo'shildi
 const express = require("express")
 // README faylini yangilash
