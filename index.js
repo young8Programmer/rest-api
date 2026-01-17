@@ -6,6 +6,7 @@
 // code comments qo'shildi
 // bundle size optimallashtirildi
 // API endpoint testlari qo'shildi
+// CI/CD pipeline sozlandi
 // package.json yangilandi
 // error handling yaxshilandi
 // component testlari yaratildi
