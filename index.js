@@ -3,6 +3,7 @@
 // installation qo'llanmasi yaratildi
 // ESLint qoidalariga moslashtirish
 // README faylini yangilash
+// shopping cart funksiyasi qo'shildi
 // component testlari yaratildi
 // validation xatolari tuzatildi
 // kod formatlash va indentatsiya
