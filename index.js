@@ -4,6 +4,7 @@
 // README faylini yangilash
 // prettier formatlash
 // bundle size optimallashtirildi
+// kod strukturasini yaxshilash
 // prettier formatlash
 // installation qo'llanmasi yaratildi
 // API endpoint testlari qo'shildi
