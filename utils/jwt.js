@@ -3,6 +3,7 @@
 // package.json yangilandi
 // bundle size optimallashtirildi
 // CORS xatosi tuzatildi
+// installation qo'llanmasi yaratildi
 // CI/CD pipeline sozlandi
 // admin dashboard yaratildi
 // admin dashboard yaratildi
