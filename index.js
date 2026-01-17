@@ -3,6 +3,7 @@
 // image optimization qo'shildi
 // API hujjatlarini qo'shish
 // API response formatini yaxshilash
+// type error tuzatildi
 // API response formatini yaxshilash
 // error handling yaxshilandi
 // database migrations yaratildi
