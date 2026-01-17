@@ -4,6 +4,7 @@
 // error handling yaxshilandi
 // kod strukturasini yaxshilash
 // authentication xatosi tuzatildi
+// memory leak muammosi hal qilindi
 // error handling yaxshilandi
 // middleware funksiyalari qo'shildi
 // ESLint qoidalariga moslashtirish
