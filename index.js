@@ -4,6 +4,7 @@
 // kod strukturasini yaxshilash
 // authentication xatosi tuzatildi
 // error handling yaxshilandi
+// middleware funksiyalari qo'shildi
 // ESLint qoidalariga moslashtirish
 // README faylini yangilash
 // database migrations yaratildi
