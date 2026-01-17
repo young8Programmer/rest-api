@@ -7,6 +7,7 @@ const express = require("express")
 const { Sequelize, DataTypes, where } = require("sequelize")
 // user authentication qo'shildi
 // database testlari qo'shildi
+// code comments qo'shildi
 // real-time notifications implementatsiya qilindi
 
 // environment variables sozlandi
