@@ -2,6 +2,7 @@
 // component testlari yaratildi
 // kod uslubini yaxshilash
 // prettier formatlash
+// bundle size optimallashtirildi
 // installation qo'llanmasi yaratildi
 // API endpoint testlari qo'shildi
 // bundle size optimallashtirildi
