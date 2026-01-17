@@ -6,5 +6,6 @@
 // admin dashboard yaratildi
 // admin dashboard yaratildi
 // integration testlar yaratildi
+// database migrations yaratildi
 // database querylarni optimallashtirish
 const jwt = require("jwt")
