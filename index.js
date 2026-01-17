@@ -7,6 +7,7 @@ const { Sequelize, DataTypes, where } = require("sequelize")
 // database testlari qo'shildi
 // real-time notifications implementatsiya qilindi
 
+// environment variables sozlandi
 // database testlari qo'shildi
 // type error tuzatildi
 // kod formatlash va tozalash
