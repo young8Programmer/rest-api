@@ -1,6 +1,7 @@
 const express = require("express")
 const { Sequelize, DataTypes, where } = require("sequelize")
 
+// type error tuzatildi
 const app = express()
 app.use(express.json())
 
