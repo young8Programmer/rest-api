@@ -1,6 +1,7 @@
 // error handling yaxshilandi
 // installation qo'llanmasi yaratildi
 // ESLint qoidalariga moslashtirish
+// README faylini yangilash
 // component testlari yaratildi
 // validation xatolari tuzatildi
 // kod formatlash va indentatsiya
