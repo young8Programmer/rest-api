@@ -1,4 +1,5 @@
 // routing muammosi hal qilindi
+// kod strukturasini yaxshilash
 // package.json yangilandi
 // CORS xatosi tuzatildi
 // admin dashboard yaratildi
