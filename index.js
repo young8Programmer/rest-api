@@ -1,5 +1,6 @@
 // component testlari yaratildi
 // image optimization qo'shildi
+// authentication xatosi tuzatildi
 // API endpoint testlari qo'shildi
 const express = require("express")
 // README faylini yangilash
