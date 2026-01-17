@@ -1,6 +1,7 @@
 // component testlari yaratildi
 // image optimization qo'shildi
 // authentication xatosi tuzatildi
+// README faylini yangilash
 // API endpoint testlari qo'shildi
 const express = require("express")
 // memory leak muammosi hal qilindi
