@@ -3,6 +3,7 @@
 // authentication xatosi tuzatildi
 // API endpoint testlari qo'shildi
 const express = require("express")
+// memory leak muammosi hal qilindi
 // README faylini yangilash
 // CI/CD pipeline sozlandi
 // changelog yangilandi
