@@ -6,6 +6,7 @@
 // README faylini yangilash
 // database migrations yaratildi
 // API endpoint testlari qo'shildi
+// validation xatolari tuzatildi
 const express = require("express")
 // memory leak muammosi hal qilindi
 // README faylini yangilash
