@@ -1,3 +1,4 @@
+// kod uslubini yaxshilash
 // error handling yaxshilandi
 // installation qo'llanmasi yaratildi
 // ESLint qoidalariga moslashtirish
