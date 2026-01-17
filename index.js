@@ -3,6 +3,7 @@
 // kod uslubini yaxshilash
 // unit testlar qo'shildi
 // error handling yaxshilandi
+// component testlari yaratildi
 // installation qo'llanmasi yaratildi
 // ESLint qoidalariga moslashtirish
 // README faylini yangilash
