@@ -3,6 +3,7 @@
 // ESLint qoidalariga moslashtirish
 // component testlari yaratildi
 // validation xatolari tuzatildi
+// kod formatlash va indentatsiya
 // API response formatini yaxshilash
 // kod formatlash va indentatsiya
 // database migrations yaratildi
