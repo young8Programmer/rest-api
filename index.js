@@ -4,6 +4,7 @@ const express = require("express")
 // changelog yangilandi
 const { Sequelize, DataTypes, where } = require("sequelize")
 // user authentication qo'shildi
+// database testlari qo'shildi
 // real-time notifications implementatsiya qilindi
 
 // type error tuzatildi
